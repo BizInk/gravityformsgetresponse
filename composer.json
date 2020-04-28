@@ -1,0 +1,9 @@
+{
+  "name": "bizink/gravityformsgetresponse",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "bizinkonline.com",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "v1.0.7"
+  }
+}
